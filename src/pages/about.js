@@ -7,7 +7,7 @@ function About (){
         <h1 className="logo">
             <p>About me</p>
             </h1>
-            <img id="profilePic" rel="profilepic" src="./assets/images/ProfilePic.png" alt="Ryan Antonelli Picture"/>
+            <img id="profilePic" rel="profilepic" src="./public/assets/images/ProfilePic.png" alt="Ryan Antonelli"/>
             <div className="aboutMe">
                 <p>
                    
