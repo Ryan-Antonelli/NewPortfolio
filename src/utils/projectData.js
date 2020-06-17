@@ -10,7 +10,7 @@ var arr = [{
 },{
   url:"https://github.com/Ryan-Antonelli/Bootcamp-group-project-1",
   id:"project2",
-  src:"./assets/images/ProjectEmojiTranslator.png",
+  src:"../assets/images/ProjectEmojiTranslator.png",
   rel:"placeholder",
   alt:"Emoji translator",
   title:"Group Project 1"
