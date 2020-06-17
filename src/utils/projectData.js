@@ -3,7 +3,7 @@ var arr = [{
 
   url:"https://github.com/Ryan-Antonelli/weatherPlannerWk6",
   id:"project1",
-  src:"./assets/images/WeatherPlannerApp.png",
+  src:"../../build/assets/images/WeatherPlannerApp.png",
   rel:"placeholder",
   alt:"Weather Planner App",
   title:"Constructed This App"
